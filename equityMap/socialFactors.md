@@ -1,5 +1,7 @@
-# Social and Demographic Indicators
-
+---
+title: Social and Demographic Indicators
+layout: default
+---
 ## Introduction to the Indicators and Data Sources
 
 The Oregon Environmental Justice (EJ) Index incorporates Social Factors as one dimension that contributes to the goal of identifying EJ communities. The preeminent source of data on Social Factors is the American Community Survey (ACS), which is the primary source of demographic and socioeconomic data in all indicator projects with nationwide coverage at the census tract level. 

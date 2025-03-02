@@ -20,7 +20,7 @@ This page presents **PRC-recommended indicators** that highlight key areas of di
   - [Civic Dis-Engagement](#civic-dis-engagement)
   - [Disconnected Youth](#disconnected-youth)
   - [Uninsured Population](#uninsured-population)
-  - [Income \& Food Insecurity](#income--food-insecurity)
+  - [Income and Food Insecurity](#income-and-food-insecurity)
 <!-- Automatic Table of Content DO NOT EDIT-->
 
 ## Introduction to the Indicators and Data Sources
@@ -124,7 +124,7 @@ People without insurance are less likely to access health care and services and 
 
 This measure is from the CDC Places project, which estimates a model-based prevalence of uninsurance that covers the entire adult population below age 65 (when widespread Medicare eligibility begins) whereas the ACS data exclude the population in institutional living situations.
 
-### Income & Food Insecurity
+### Income and Food Insecurity
 
 **_Percentage of Households Receiving Public Assistance Income or Food Stamps/SNAP in the Past 12 Months - (ACS5: Table B19058)_**
 

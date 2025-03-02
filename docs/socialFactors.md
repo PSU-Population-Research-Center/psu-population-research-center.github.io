@@ -21,15 +21,15 @@ In order to comport with the current proposed methodological design for the Oreg
 1. **No Internet Access : Measure the share of households without an internet subscription (ACS Table B28002)**
 
 Lack of an internet subscription may prevent people from becoming aware of or involved in decision-making affecting the environmental health of their communities. Additionally, many important communications during emergencies are shared through the internet and people living in communities without access to internet may be difficult to reach or unable to access crucial information.
-
+<!-- This keeps spacing but maintains numbering -->
 This measure includes cellular data plans, fiber, cable, DSL, or satellite internet, and is available for Oregon census tracts as an average from data collected during a 5-year period.
-
+<!-- This keeps spacing but maintains numbering -->
 2. **Vulnerable Employment: Measure the share of employment in natural resource industries (ACS Table C24070)**
 
 The share of employment in natural resource industries is a critical economic indicator, particularly for regions where resource extraction and agriculture play a significant role in local economies. It helps assess economic dependence on volatile industries, which are often subject to fluctuations due to market conditions, environmental regulations, and climate change. Additionally, communities with high employment in these industries may face greater economic vulnerability during downturns in commodity prices or policy shifts affecting resource management. Measuring this indicator provides insights into regional economic diversity, workforce stability, and potential environmental impacts, helping policymakers and planners develop strategies for economic resilience and sustainable development.
-
+<!-- This keeps spacing but maintains numbering -->
 This measure includes workers in agriculture, forestry, fishing, hunting, and mining industries (NAICS codes 11 and 21) who are in the the civilian labor force and age 16 and older, and is available for Oregon census tracts as an average from data collected during a 5-year period.
-
+<!-- This keeps spacing but maintains numbering -->
 3. **Limited English : Measure the share of the population who self-report speaking English less than "well" (ACS Table C16002)**
 
 Not being able to speak or understand English well can prevent individuals from advocating for themselves and their environmental health. It can also prevent them from understanding documents, news, and emergency announcements related to environmental hazards, putting them more at risk of experiencing the cumulative impacts of environmental burdens.

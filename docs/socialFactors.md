@@ -10,17 +10,17 @@ This page presents **PRC-recommended indicators** that highlight key areas of di
 - [Introduction to the Indicators and Data Sources](#introduction-to-the-indicators-and-data-sources)
 - [Selection Criteria and Data Processing](#selection-criteria-and-data-processing)
 - [Indicators, Descriptions, and Included Variables](#indicators-descriptions-and-included-variables)
-  - [No Internet Access | Back to Top](#no-internet-access--back-to-top)
+  - [No Internet Access](#no-internet-access)
   - [Vulnerable Employment](#vulnerable-employment)
-  - [Limited English Proficiency | Back to Top](#limited-english-proficiency--back-to-top)
+  - [Limited English Proficiency](#limited-english-proficiency)
   - [Households in Rentals](#households-in-rentals)
-  - [Employment Hardships | Back to Top](#employment-hardships--back-to-top)
+  - [Employment Hardships](#employment-hardships)
   - [Adult Without College](#adult-without-college)
-  - [Population with Disability | Back to Top](#population-with-disability--back-to-top)
+  - [Population with Disability](#population-with-disability)
   - [Civic Dis-Engagement](#civic-dis-engagement)
-  - [Disconnected Youth | Back to Top](#disconnected-youth--back-to-top)
+  - [Disconnected Youth](#disconnected-youth)
   - [Uninsured Population](#uninsured-population)
-  - [Income and Food Insecurity | Back to Top](#income-and-food-insecurity--back-to-top)
+  - [Income and Food Insecurity](#income-and-food-insecurity)
 <!-- Automatic Table of Content DO NOT EDIT-->
 
 
@@ -42,9 +42,10 @@ In order to comport with the current proposed methodological design for the Oreg
 
 The following list of indicators are proposed. Click the link for description, based variables, and rationale:
 
-### No Internet Access | [Back to Top](#)
+### No Internet Access 
 
-Measure the share of households without an internet subscription (ACS Table B28002)
+
+Measure the share of households without an internet subscription (ACS5 Table B28002)
 
 Lack of an internet subscription may prevent people from becoming aware of or involved in decision-making affecting the environmental health of their communities. Additionally, many important communications during emergencies are shared through the internet and people living in communities without access to internet may be difficult to reach or unable to access crucial information.
 
@@ -52,15 +53,15 @@ This measure includes cellular data plans, fiber, cable, DSL, or satellite inter
 
 ### Vulnerable Employment
 
-Measure the share of employment in natural resource industries (ACS Table C24070)
+Measure the share of employment in natural resource industries (ACS5 Table C24070)
 
 The share of employment in natural resource industries is a critical economic indicator, particularly for regions where resource extraction and agriculture play a significant role in local economies. It helps assess economic dependence on volatile industries, which are often subject to fluctuations due to market conditions, environmental regulations, and climate change. Additionally, communities with high employment in these industries may face greater economic vulnerability during downturns in commodity prices or policy shifts affecting resource management. Measuring this indicator provides insights into regional economic diversity, workforce stability, and potential environmental impacts, helping policymakers and planners develop strategies for economic resilience and sustainable development.
 
 This measure includes workers in agriculture, forestry, fishing, hunting, and mining industries (NAICS codes 11 and 21) who are in the the civilian labor force and age 16 and older, and is available for Oregon census tracts as an average from data collected during a 5-year period.
 
-### Limited English Proficiency | [Back to Top](#)
+### Limited English Proficiency
 
-Measure the share of the population who self-report speaking English less than "well" (ACS Table C16002)
+Measure the share of the population who self-report speaking English less than "well" (ACS5 Table C16002)
 
 Not being able to speak or understand English well can prevent individuals from advocating for themselves and their environmental health. It can also prevent them from understanding documents, news, and emergency announcements related to environmental hazards, putting them more at risk of experiencing the cumulative impacts of environmental burdens.
 
@@ -68,15 +69,15 @@ This measure applies to the population age 5 and older, and is available for Ore
 
 ### Households in Rentals
 
-Measure the share of households that are renters (ACS Table B25003)
+Measure the share of households that are renters (ACS5 Table B25003)
 
 Renters often face greater challenges in accessing safe and healthy housing on a stable basis. They move more often, and may develop more shallow ties in their communities. Renters may also lack financial resources or legal protections that homeowners have. Homeownership is the most significant source of generational wealth for a majority of Oregonians, and renters may not have the same resources to mitigate the impacts of environmental burdens.
 
 This measure applies to all occupied housing, and is available for Oregon census tracts as an average from data collected during a 5-year period.
 
-### Employment Hardships | [Back to Top](#)
+### Employment Hardships
 
-The combined average share of people with very long commutes and share of adults who have been out of work for an extended period (ACS Tables C23022 and B08134)
+The combined average share of people with very long commutes and share of adults who have been out of work for an extended period (ACS5 Tables C23022 and B08134)
 
 Long commutes and unemployment have been associated with higher stress and related health conditions, which can make individuals more vulnerable to the negative health effects of environmental burdens.
 
@@ -84,13 +85,13 @@ This measure applies to all workers age 16 and older or all persons age 16-64, r
 
 ### Adult Without College
 
-The share of adults without a college degree (ACS Table B15003)
+The share of adults without a college degree (ACS5 Table B15003)
 
 Communities with lower levels of educational attainment may not be as aware of or as able to protect themselves from environmental hazards or the negative health outcomes associated with them. Higher education has been associated with greater adaptive capacity in the case of environmental hazards and burdens.
 
 This measure applies to all persons age 25 and older, and is available for Oregon census tracts as an average from data collected during a 5-year period.
 
-### Population with Disability | [Back to Top](#)
+### Population with Disability
 
 The share of adults with one or more disabling conditions (CDC Places)
 
@@ -110,9 +111,9 @@ The data are taken from the US Census Bureau's Planning Database (2023 edition),
 
 This measure applies to all households, and is available for Oregon census tracts for the year 2020 (decennial census response rates) or 2021 (ACS response rates).
 
-### Disconnected Youth | [Back to Top](#)
+### Disconnected Youth
 
-The average of the share of school age children (5 to 17) not enrolled in school (ACS Table B14003) and the share of young persons age 16-19 who are not in education or the labor force (B14005). 
+The average of the share of school age children (5 to 17) not enrolled in school (ACS5 Table B14003) and the share of young persons age 16-19 who are not in education or the labor force (ACS5 Table B14005). 
 
 Disconnected youth face higher risks of long-term economic hardship, social exclusion, and reduced upward mobility. A lack of school enrollment or workforce participation can indicate barriers to education, family instability, or economic distress, which may contribute to higher crime rates, poverty, and social service dependency. Measuring this helps identify communities needing targeted interventions in education, job training, and social support to improve long-term outcomes.
 
@@ -125,10 +126,10 @@ The share of adults 18-64 without health insurance (CDC Places)
 People without insurance are less likely to access health care and services and are more likely to experience illness, injury, and death from environmental hazards and exposures than insured populations.
 
 This measure is from the CDC Places project, which estimates a model-based prevalence of uninsurance that covers the entire adult population below age 65 (when widespread Medicare eligibility begins) whereas the ACS data exclude the population in institutional living situations.### Disconnected Youth
-The average of the share of school age children (5 to 17) not enrolled in school (ACS Table B14003) and the share of young persons age 16-19 who are not in education or the labor force (B14005).
+The average of the share of school age children (5 to 17) not enrolled in school (ACS5 Table B14003) and the share of young persons age 16-19 who are not in education or the labor force (B14005).
 
-### Income and Food Insecurity | [Back to Top](#)
+### Income and Food Insecurity 
 
-Percentage of Households Receiving Public Assistance Income or Food Stamps/SNAP in the Past 12 Months - (Table B19058)
+Percentage of Households Receiving Public Assistance Income or Food Stamps/SNAP in the Past 12 Months - (ACS5 Table B19058)
 
 Public assistance income and SNAP (Supplemental Nutrition Assistance Program) participation serve as key indicators of economic hardship and food insecurity within a community. A high percentage of households relying on these programs suggests limited access to stable income, employment challenges, and higher vulnerability to economic shocks. Food insecurity is linked to poor health outcomes, lower educational attainment, and increased social service dependency, making it a crucial measure for identifying communities in need of targeted support, policy interventions, and resource allocation.

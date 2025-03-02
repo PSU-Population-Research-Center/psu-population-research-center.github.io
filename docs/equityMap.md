@@ -7,4 +7,4 @@ has_children: true
 ---
 
 
-- [PRC Social Indicators Candidates](socialFactors.md)
+- [PRC Social Indicators Candidates](socialFactors)

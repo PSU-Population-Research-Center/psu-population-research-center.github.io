@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome to PRC Pages
 layout: home
 nav_order: 1
 ---

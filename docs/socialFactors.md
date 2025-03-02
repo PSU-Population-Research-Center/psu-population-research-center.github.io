@@ -1,6 +1,7 @@
 ---
-title: Social and Demographic Indicators for EJI Mapping Project
+title: EJI Indicators
 layout: home
+description: Social and Demographic Indicators for EJI Mapping Project
 ---
 
 This page presents **PRC-recommended indicators** that highlight key areas of disparity and are **potentially actionable and relevant** to the Oregon EJ Index project. The **Population Research Center (PRC) at Portland State University** has compiled a broader set of **over 100 ACS-derived indicators**, many of which have been used in index projects such as **SVI, EJI, and others**. Indicators from **non-ACS data sources** are also included where applicable.

@@ -1,5 +1,5 @@
 ---
-title: Social and Demographic Indicators for Oregon EJI Maping
+title: Social and Demographic Indicators for EJI Mapping Project
 layout: home
 ---
 

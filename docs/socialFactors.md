@@ -1,7 +1,7 @@
 ---
 title: Social and Demographic Indicators for EJI Mapping Project
-layout: home
 description: Social and Demographic Indicators for EJI Mapping Project
+parent: home
 nav_order: 1
 ---
 

@@ -4,4 +4,4 @@ theme: just-the-docs
 nav_depth: 2
 just_the_docs:
   custom_css:
-    - _sass/_style.scss
+    - assets/css/style.scss

@@ -1,6 +1,5 @@
 ---
 title: Social and Demographic Indicators
-layout: default
 ---
 ## Introduction to the Indicators and Data Sources
 

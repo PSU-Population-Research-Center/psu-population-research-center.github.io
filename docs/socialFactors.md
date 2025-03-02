@@ -10,17 +10,17 @@ This page presents **PRC-recommended indicators** that highlight key areas of di
 - [Introduction to the Indicators and Data Sources](#introduction-to-the-indicators-and-data-sources)
 - [Selection Criteria and Data Processing](#selection-criteria-and-data-processing)
 - [Indicators, Descriptions, and Included Variables](#indicators-descriptions-and-included-variables)
-  - [No Internet Access](#no-internet-access)
+  - [No Internet Access | Back to Top](#no-internet-access--back-to-top)
   - [Vulnerable Employment](#vulnerable-employment)
-  - [Limited English Proficiency](#limited-english-proficiency)
+  - [Limited English Proficiency | Back to Top](#limited-english-proficiency--back-to-top)
   - [Households in Rentals](#households-in-rentals)
-  - [Employment Hardships](#employment-hardships)
+  - [Employment Hardships | Back to Top](#employment-hardships--back-to-top)
   - [Adult Without College](#adult-without-college)
-  - [Population with Disability](#population-with-disability)
+  - [Population with Disability | Back to Top](#population-with-disability--back-to-top)
   - [Civic Dis-Engagement](#civic-dis-engagement)
-  - [Disconnected Youth](#disconnected-youth)
+  - [Disconnected Youth | Back to Top](#disconnected-youth--back-to-top)
   - [Uninsured Population](#uninsured-population)
-  - [](#)
+  - [Income and Food Insecurity | Back to Top](#income-and-food-insecurity--back-to-top)
 <!-- Automatic Table of Content DO NOT EDIT-->
 
 
@@ -39,25 +39,11 @@ While many of these indicators are also used in vulnerability or community resil
 In order to comport with the current proposed methodological design for the Oregon EJ index, the selected variables are processed into <em>measure scores</em> that are on a common scale of 1-99, where higher numbers indicate a greater need for policy action by community leaders and government authorities. Each measure score is based on a Winsorized data series (to dampen the effect of outliers), converted into a Z-score (to measure a distance from the median, rather than from an absolute standard). The final <em>domain score</em> for the Social Factors domain is calculated by averaging all measure scores, with no weighting applied.
 
 ## Indicators, Descriptions, and Included Variables
+
 The following list of indicators are proposed. Click the link for description, based variables, and rationale:
 
-- [Introduction to the Indicators and Data Sources](#introduction-to-the-indicators-and-data-sources)
-- [Selection Criteria and Data Processing](#selection-criteria-and-data-processing)
-- [Indicators, Descriptions, and Included Variables](#indicators-descriptions-and-included-variables)
-  - [No Internet Access](#no-internet-access)
-  - [Vulnerable Employment](#vulnerable-employment)
-  - [Limited English Proficiency](#limited-english-proficiency)
-  - [Households in Rentals](#households-in-rentals)
-  - [Employment Hardships](#employment-hardships)
-  - [Adult Without College](#adult-without-college)
-  - [Population with Disability](#population-with-disability)
-  - [Civic Dis-Engagement](#civic-dis-engagement)
-  - [Disconnected Youth](#disconnected-youth)
-  - [Uninsured Population](#uninsured-population)
-  - [](#)
+### No Internet Access | [Back to Top](#)
 
-
-### No Internet Access
 Measure the share of households without an internet subscription (ACS Table B28002)
 
 Lack of an internet subscription may prevent people from becoming aware of or involved in decision-making affecting the environmental health of their communities. Additionally, many important communications during emergencies are shared through the internet and people living in communities without access to internet may be difficult to reach or unable to access crucial information.
@@ -72,7 +58,7 @@ The share of employment in natural resource industries is a critical economic in
 
 This measure includes workers in agriculture, forestry, fishing, hunting, and mining industries (NAICS codes 11 and 21) who are in the the civilian labor force and age 16 and older, and is available for Oregon census tracts as an average from data collected during a 5-year period.
 
-### Limited English Proficiency
+### Limited English Proficiency | [Back to Top](#)
 
 Measure the share of the population who self-report speaking English less than "well" (ACS Table C16002)
 
@@ -88,7 +74,7 @@ Renters often face greater challenges in accessing safe and healthy housing on a
 
 This measure applies to all occupied housing, and is available for Oregon census tracts as an average from data collected during a 5-year period.
 
-### Employment Hardships
+### Employment Hardships | [Back to Top](#)
 
 The combined average share of people with very long commutes and share of adults who have been out of work for an extended period (ACS Tables C23022 and B08134)
 
@@ -104,7 +90,7 @@ Communities with lower levels of educational attainment may not be as aware of o
 
 This measure applies to all persons age 25 and older, and is available for Oregon census tracts as an average from data collected during a 5-year period.
 
-### Population with Disability
+### Population with Disability | [Back to Top](#)
 
 The share of adults with one or more disabling conditions (CDC Places)
 
@@ -124,7 +110,7 @@ The data are taken from the US Census Bureau's Planning Database (2023 edition),
 
 This measure applies to all households, and is available for Oregon census tracts for the year 2020 (decennial census response rates) or 2021 (ACS response rates).
 
-### Disconnected Youth
+### Disconnected Youth | [Back to Top](#)
 
 The average of the share of school age children (5 to 17) not enrolled in school (ACS Table B14003) and the share of young persons age 16-19 who are not in education or the labor force (B14005). 
 
@@ -141,4 +127,8 @@ People without insurance are less likely to access health care and services and 
 This measure is from the CDC Places project, which estimates a model-based prevalence of uninsurance that covers the entire adult population below age 65 (when widespread Medicare eligibility begins) whereas the ACS data exclude the population in institutional living situations.### Disconnected Youth
 The average of the share of school age children (5 to 17) not enrolled in school (ACS Table B14003) and the share of young persons age 16-19 who are not in education or the labor force (B14005).
 
-### 
+### Income and Food Insecurity | [Back to Top](#)
+
+Percentage of Households Receiving Public Assistance Income or Food Stamps/SNAP in the Past 12 Months - (Table B19058)
+
+Public assistance income and SNAP (Supplemental Nutrition Assistance Program) participation serve as key indicators of economic hardship and food insecurity within a community. A high percentage of households relying on these programs suggests limited access to stable income, employment challenges, and higher vulnerability to economic shocks. Food insecurity is linked to poor health outcomes, lower educational attainment, and increased social service dependency, making it a crucial measure for identifying communities in need of targeted support, policy interventions, and resource allocation.

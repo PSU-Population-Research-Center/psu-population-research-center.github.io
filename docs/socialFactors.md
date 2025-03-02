@@ -1,8 +1,7 @@
 ---
-title: EJI Indicators
+title: Social and Demographic Indicators for EJI Mapping Project
 layout: home
 description: Social and Demographic Indicators for EJI Mapping Project
-parent: Top-Level Page
 nav_order: 1
 ---
 
@@ -41,7 +40,7 @@ In order to comport with the current proposed methodological design for the Oreg
 
 ## Indicators, Descriptions, and Included Variables
 
-The following list of indicators are proposed. Click the link for description, based variables, and rationale:
+The following list of indicators are proposed.
 
 ### No Internet Access
 

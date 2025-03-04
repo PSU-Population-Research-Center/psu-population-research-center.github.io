@@ -22,7 +22,6 @@ This page presents **PRC-recommended indicators** that highlight key areas of di
   - [Civic Dis-Engagement](#civic-dis-engagement)
   - [Disconnected Youth](#disconnected-youth)
   - [Uninsured Population](#uninsured-population)
-  - [Income and Food Insecurity](#income-and-food-insecurity)
 <!-- Automatic Table of Content DO NOT EDIT-->
 
 ## Introduction to the Indicators and Data Sources
@@ -126,8 +125,8 @@ People without insurance are less likely to access health care and services and 
 
 This measure is from the CDC Places project, which estimates a model-based prevalence of uninsurance that covers the entire adult population below age 65 (when widespread Medicare eligibility begins) whereas the ACS data exclude the population in institutional living situations.
 
-### Income and Food Insecurity
+<!-- ### Income and Food Insecurity
 
 **_Percentage of Households Receiving Public Assistance Income or Food Stamps/SNAP in the Past 12 Months - (ACS5: Table B19058)_**
 
-Public assistance income and SNAP (Supplemental Nutrition Assistance Program) participation serve as key indicators of economic hardship and food insecurity within a community. A high percentage of households relying on these programs suggests limited access to stable income, employment challenges, and higher vulnerability to economic shocks. Food insecurity is linked to poor health outcomes, lower educational attainment, and increased social service dependency, making it a crucial measure for identifying communities in need of targeted support, policy interventions, and resource allocation.
+Public assistance income and SNAP (Supplemental Nutrition Assistance Program) participation serve as key indicators of economic hardship and food insecurity within a community. A high percentage of households relying on these programs suggests limited access to stable income, employment challenges, and higher vulnerability to economic shocks. Food insecurity is linked to poor health outcomes, lower educational attainment, and increased social service dependency, making it a crucial measure for identifying communities in need of targeted support, policy interventions, and resource allocation. -->

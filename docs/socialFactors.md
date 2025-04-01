@@ -24,7 +24,7 @@ This page presents **PRC-recommended indicators** that highlight key areas of di
   - [Uninsured Population](#uninsured-population)
   - [Population Under 5](#population-under-5)
   - [65+ Living Alone](#65-living-alone)
-  - [The Generational Wealth Proxy Score (GWPS)](#the-generational-wealth-proxy-score-gwps)
+  - [Inheritance Proxy Score (IPS)](#inheritance-proxy-score-ips)
 <!-- Automatic Table of Content DO NOT EDIT-->
 
 ## Introduction to the Indicators and Data Sources
@@ -151,12 +151,12 @@ Older adults living alone may face increased risks during environmental emergenc
 
 This measure applies to all persons age 65 and older and is available for Oregon census tracts as an average from data collected during a 5-year period.
 
-### The Generational Wealth Proxy Score (GWPS)
+### Inheritance Proxy Score (IPS)
 
-**_The Generational Wealth Proxy Score (GWPS) is a composite indicator designed to estimate the likelihood of inherited wealth being present in U.S. census tracts._**
+**_The Inheritance Proxy Score (IPS) is a composite indicator designed to estimate the presence of generational wealth within a community._**
 
 It draws on four variables from the American Community Survey (ACS) that reflect both asset-based and demographic patterns associated with generational wealth transfer. These include the percentage of owner-occupied homes with householders under 65 (from ACS table B25007), median home value (B25077), median household income (B19013), and the percentage of homes without a mortgage (B25081).
 
 Each variable contributes to the index in a direction that aligns with generational wealth theory. Younger homeowners and mortgage-free properties are treated as positive contributors, as they suggest possible inheritance or long-term family ownership. Similarly, higher home values imply a greater capacity for wealth transfer. In contrast, high household income contributes negatively, under the assumption that high earners are more likely to be accumulating wealth through current income rather than inheritance.
 
-To create the GWPS, all variables are normalized on a 0–1 scale using z-score normalization. The income variable is inversely scaled to reflect its negative contribution. The final score is calculated as a weighted average of these normalized values, with equal weights by default. Higher GWPS values indicate tracts where generational wealth is more likely to be present. This score can be used to map patterns of intergenerational advantage, analyze disparities, or guide research into economic mobility.
+To create the IPS, all variables are normalized on a 0–1 scale using z-score normalization. The income variable is inversely scaled to reflect its negative contribution. The final score is calculated as a weighted average of these normalized values, with equal weights by default. Higher IPS values indicate tracts where inherited wealth is more likely to be present. This score can be used to map patterns of intergenerational advantage, analyze disparities, or guide research into economic mobility.

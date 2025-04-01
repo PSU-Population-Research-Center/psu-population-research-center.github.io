@@ -22,6 +22,9 @@ This page presents **PRC-recommended indicators** that highlight key areas of di
   - [Civic Dis-Engagement](#civic-dis-engagement)
   - [Disconnected Youth](#disconnected-youth)
   - [Uninsured Population](#uninsured-population)
+  - [Population Under 5](#population-under-5)
+  - [65+ Living Alone](#65-living-alone)
+  - [The Generational Wealth Proxy Score (GWPS)](#the-generational-wealth-proxy-score-gwps)
 <!-- Automatic Table of Content DO NOT EDIT-->
 
 ## Introduction to the Indicators and Data Sources
@@ -130,3 +133,30 @@ This measure is from the CDC Places project, which estimates a model-based preva
 **_Percentage of Households Receiving Public Assistance Income or Food Stamps/SNAP in the Past 12 Months - (ACS5: Table B19058)_**
 
 Public assistance income and SNAP (Supplemental Nutrition Assistance Program) participation serve as key indicators of economic hardship and food insecurity within a community. A high percentage of households relying on these programs suggests limited access to stable income, employment challenges, and higher vulnerability to economic shocks. Food insecurity is linked to poor health outcomes, lower educational attainment, and increased social service dependency, making it a crucial measure for identifying communities in need of targeted support, policy interventions, and resource allocation. -->
+
+
+### Population Under 5
+
+**_The share of children ages 0-4 (ACS5: Table B01001)_**
+
+Young children are particularly vulnerable to environmental hazards due to their developing immune systems, higher rates of exposure relative to body weight, and dependence on caregivers for protection and care. Communities with a higher proportion of young children may require additional resources and targeted interventions to mitigate environmental risks and ensure their safety and well-being.
+
+This measure applies to all children ages 0-4 and is available for Oregon census tracts as an average from data collected during a 5-year period.
+
+### 65+ Living Alone
+
+**_The share of the population age 65 and older living alone (ACS5: Table B09020)_**
+
+Older adults living alone may face increased risks during environmental emergencies due to limited social support, mobility challenges, and potential health issues. They may also have fewer resources to adapt to or recover from environmental burdens. Identifying communities with a higher share of older adults living alone can help prioritize outreach and support services for this vulnerable population.
+
+This measure applies to all persons age 65 and older and is available for Oregon census tracts as an average from data collected during a 5-year period.
+
+### The Generational Wealth Proxy Score (GWPS)
+
+**_The Generational Wealth Proxy Score (GWPS) is a composite indicator designed to estimate the likelihood of inherited wealth being present in U.S. census tracts._**
+
+It draws on four variables from the American Community Survey (ACS) that reflect both asset-based and demographic patterns associated with generational wealth transfer. These include the percentage of owner-occupied homes with householders under 65 (from ACS table B25007), median home value (B25077), median household income (B19013), and the percentage of homes without a mortgage (B25081).
+
+Each variable contributes to the index in a direction that aligns with generational wealth theory. Younger homeowners and mortgage-free properties are treated as positive contributors, as they suggest possible inheritance or long-term family ownership. Similarly, higher home values imply a greater capacity for wealth transfer. In contrast, high household income contributes negatively, under the assumption that high earners are more likely to be accumulating wealth through current income rather than inheritance.
+
+To create the GWPS, all variables are normalized on a 0–1 scale using z-score normalization. The income variable is inversely scaled to reflect its negative contribution. The final score is calculated as a weighted average of these normalized values, with equal weights by default. Higher GWPS values indicate tracts where generational wealth is more likely to be present. This score can be used to map patterns of intergenerational advantage, analyze disparities, or guide research into economic mobility.

@@ -4,6 +4,7 @@ layout: home
 description: Social and Demographic Indicators for EJI Mapping Project
 parent: Equity Map
 nav_order: 1
+math: true
 ---
 
 ## Downloads

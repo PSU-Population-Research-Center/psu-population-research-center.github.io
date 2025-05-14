@@ -1,6 +1,7 @@
 title: Open Pages For PRC Stakeholders
 description: A simple site for PRC stakeholders to view and download documents.
 theme: just-the-docs
+math: true
 nav_depth: 3
 just_the_docs:
   custom_css:

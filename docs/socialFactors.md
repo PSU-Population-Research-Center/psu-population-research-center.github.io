@@ -9,7 +9,7 @@ nav_order: 1
 
 
 Estimates can be combined arithemetically to derive totals or proportions across or within groups or geographies. Following US Census Bureau guidance, approximations of standard errors for combined sums/differences and proportions/percents can be done by: 
-- The standard error of a sum or difference can be approximated by the square root of the sum of squared errors: $$ \text{SE}(X_1 \pm X_2) = \sqrt{\text{SE}(X_1)^2 + \text{SE}(X_2)^2} $$;
+- The standard error of a sum or difference can be approximated by the square root of the sum of squared errors: $$\text{SE}(X_1 \pm X_2) = \sqrt{\text{SE}(X_1)^2 + \text{SE}(X_2)^2}$$;
 - The standard error of a percent or proportion, $ P = \frac{X}{Y} $ (where the numerator is a subset of the denominator), is approximated by:  $ \text{SE}(P) = \frac{1}{Y} \cdot \sqrt{\text{SE}(X)^2 - \frac{X^2}{Y^2} \cdot \text{SE}(Y)^2} $ (in cases where this formula provides a negative standard error, use the formula for the combined standard error of a ratio);
 - The standard error of a ratio (where the numerator is \emph{not} a subset of the denominator) is approximated by: $ \text{SE}(P) = \frac{1}{Y} \cdot \sqrt{\text{SE}(X)^2 + \frac{X^2}{Y^2} \cdot \text{SE}(Y)^2} $; 
 - The standard error of an estimate of percent change over time between time periods $ X $ and $ Y $ is approximated by: $ \text{SE}\left(\frac{X}{Y}\right) $.

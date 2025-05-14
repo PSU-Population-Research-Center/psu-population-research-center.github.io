@@ -1,4 +1,12 @@
-# Downloads
+---
+title: Oregon Real Id Categories
+layout: home
+description: Social and Demographic Indicators for EJI Mapping Project
+parent: Equity Map
+nav_order: 1
+---
+
+## Downloads
 Downloads are currently available as Stata datasets only, where the file year refers to the final year of the 5-year ACS data release. Each dataset contains fields identifying the the estimate (b) and standard error of the estimate (se), as well as the geography (state and county [FIPS codes](https://www.census.gov/library/reference/code-lists/ansi.html#cou)) and the subpopulation for which the estimates are generated.
 
 Population by age/sex: [2019](results/results_agesex_2019.dta) [2020](results/results_agesex_2020.dta) [2021](results/results_agesex_2021.dta) [2022](results/results_agesex_2022.dta) [2023](results/results_agesex_2023.dta)<br />
@@ -16,13 +24,13 @@ Population by Disability, independent living (out): [2019](results/results_douto
 Population by LEP and Language Spoken at Home (counties): [2019](results/results_lang_2019.dta) [2020](results/results_lang_2020.dta) [2021](results/results_lang_2021.dta) [2022](results/results_lang_2022.dta) [2023](results/results_lang_2023.dta)<br />
 Population by LEP and Language Spoken at Home (state; additional age detail): [2019](results/results_langst_2019.dta) [2020](results/results_langst_2020.dta) [2021](results/results_langst_2021.dta) [2022](results/results_langst_2022.dta) [2023](results/results_langst_2023.dta)<br />
 
-# Updates
+## Updates
 - 2025-05-01: Updated REALD estimates datasets release (2019-2023). Improved estimates for county standard errors and addition of reliability metrics. Totals across all age groups are now included in each dataset.
 - 2025-01-23: 5-year ACS PUMS for 2023 released.
 - 2024-05-31: Initial REALD estimates datasets release (2019-2022).
 - 2024-01-25: 5-year ACS PUMS for 2022 released.
 
-# Data Usage and Suppression
+## Data Usage and Suppression
 
 Survey results are estimates of population values and always contain some error because they are based on samples. Confidence intervals are one tool for assessing the reliability, or precision, of survey estimates. Another tool for assessing reliability is the relative standard error (RSE) of an estimate. Estimates with large RSEs are considered less reliable than estimates with small RSEs.
 
@@ -35,7 +43,7 @@ Estimates can be combined arithemetically to derive totals or proportions across
 
 Additional scenarios and issues are considered in ACS guidance provided by the US Census Bureau.<sup>[\[5\]](#footnote-5)</sup>
 
-# Data and Methods
+## Data and Methods
 The ACS is a nationally representative sample of approximately 2% of the US resident population each year. Results of the ACS data are published as tables, aggregated into a variety of summary file releases such as subject tables, demographic profiles, detailed tables, and others. The ACS tables do not contain sufficient detail to count the population by [Oregon REALD](https://www.oregon.gov/oha/EI/Pages/REALD.aspx) characteristics. Therefore, the starting estimates for the population by REALD characteristics are imputed using the ACS PUMS, a microdata sample of individual ACS responses that contain additional demographic detail associated with REALD elements. 
 
 The published ACS tables (e.g., at data.census.gov) differ from the PUMS in several respects: notably, the former are calculated from the 100% ACS sample (rather than the portion of the sample included in the PUMS), and are available for many geographical levels including individual census tracts and counties. The PUMS are based on approximately 50% of unit-level responses to the ACS, and subject to disclosure avoidance and other statistical adjustments that means totals do not always equal published data from the 100% ACS. In addition, PUMS are available only for PUMA geographies, corresponding to groups of census tracts that sum to 100,000 or more residents as of the last decennial census. ACS releases are currently published in two formats: as single-year samples for areas of 65,000 or more persons, weighted to the mid-year population, or in five-year aggregated samples for all areas, combining 5 cumulative years of ACS response data, and weighted to the mid-year population of the third year of the sample. In order to construct a more statistically reliable and consistent data series, REALD population estimates are based on the five-year PUMS samples. 
@@ -114,7 +122,7 @@ Because of the narrow focus of these tabulations, the constraining totals chosen
 
 After the REALD characteristics are imputed from the available PUMS data fields, the records are segmented by PUMA, and the original data fields are used to impute new weights that accord to the small area constraining totals for each of the counties that constitute the multi-county PUMAs. The ACS PUMS includes replicate weights, which allow analysts to assess the statistical uncertainty in most types of tabulations generated from the PUMS. Replicate weights are converted from PUMA to county areas by assuming that the variability within each county sub-sample is equal, in which case errors are proportional to sample size.<sup>[\[3\]](#footnote-3)</sup>
 
-# Disability
+## Disability
 
 Disability is a multifaceted and complex issue. The current ACS instrument was introduced in 2008, and collects six items to assess disability among the non-institutionalized population, according to the age of the respondent. Respondents who one or more of the following six disability types are considered to have a disability:
 - Hearing difficulty (deaf or having serious difficulty hearing; all ages screened).
@@ -124,7 +132,7 @@ Disability is a multifaceted and complex issue. The current ACS instrument was i
 - Self-care difficulty (difficulty bathing or dressing; ages 5+ only screened).
 - Independent living difficulty (a physical, mental, or emotional problem that causes difficulty doing errands alone such as visiting a doctor’s office or shopping; only ages 18+ screened).
 
-# Languages
+## Languages
 
 There are several special processing rules applied for language tabulations to address variable data quality and availability. Starting in 2016, the Census Bureau made several revisions to language coding and tabulation standards, including adoption of ISO-639-3 standard; a new list of 42 languages to be included in table B16001, and additional geographic restrictions for table B16001 for the 5-year sample to the national, state, MSA/CSA, CD, and PUMA levels. County/tracts must use the collapsed table C16001 with fewer individual languages that had 1 million or 
 more speakers nationally in 2016. However, 2016+ versions of table B16001 have been published in the 1-year ACS releases for counties that met population size and other requirements. For example, the following OR county-year combinations have B16001 (2016+ version) data available:
@@ -138,7 +146,7 @@ The starting dataset for the estimation of the number of speakers by language is
 
 For Multnomah and Washington counties, a synthetic estimate of speakers for the post-2016 language list (with 42 unique values) was generated by combining cumulative data on the number of speakers by LEP status for up to 5 years since 2016. This was introduced to reduce the adverse impact of sample variability in the 1-year ACS, while leveraging the larger sample size of ACS published tables to produce more accurate counts. The final raking step imposed consistency with the age and sex structure of the last 5-year ACS sample, as well as the county-level language speakers by LEP status from table C16001 (and in the case of all Oregon counties, also the B16001 statwide estimates according to the detailed language list by LEP status).
 
-# Notes [↑](#footnote-notes)
+## Notes [↑](#footnote-notes)
 - The reweighting process results in non-integer counts, and these have been left as is. They can be displayed as or rounded to whole counts (in which case, rounding errors will mean that totals may not sum exactly).<br />
 - Language is assessed for the population age 5+ only; therefore, sums across languages will not sum to the total population.<br />
 - Disability status is assessed only for the civilian noninstitutionalized population (excluding the population in institutional group quarters such as skilled nursing facilities whose disability status is not surveyed); therefore, sums across disability status will not sum to total population.<br />
@@ -146,10 +154,10 @@ For Multnomah and Washington counties, a synthetic estimate of speakers for the 
 - RAC2P values changed for the [2023 ACS](https://www.census.gov/programs-surveys/acs/microdata/documentation.html); for the purposes of consistency with prior ACS datasets, RAC2P23 codes were converted to corresponding RAC2P19 codes used in previous releases. Where no corresponding code was available, the RAC2P23 and RAC2P19 codes were collapsed to the most disaggregated common scheme possible between the two data sources. 
 - Derivation of Relative Standard Error (RSE) thresholds for data reliability: the confidence interval for $\hat{\theta}$ is given by: $\hat{\theta} \pm z_{\alpha/2} \cdot \text{SE}$, where $\hat{\theta}$ represents the point estimate and $\text{SE}$ the standard error of  the estimate, and $z_{\alpha/2}$ is the critical value for the standard normal distribution corresponding to the desired confidence level. The lower bound of the confidence interval includes zero when: $\hat{\theta} - z_{\alpha/2} \cdot \text{SE} = 0$. Rearranging terms, we get $\frac{\text{SE}}{\hat{\theta}} = \frac{1}{z_{\alpha/2}}$. For 95\% confidence, $\alpha = 0.05$ and $z_{\alpha/2} \approx 1.96$. Thus, $\text{RSE} = \frac{1}{1.96} \approx 0.51$.
 
-# Funding Acknowledgement
+## Funding Acknowledgement
 OHA IGA#179509 "County-level REALD population estimates"
 
-# References
+## References
 1. Ruther M, Maclaurin G, Leyk S, Buttenfield B, Nagle N. 2013. “Validation of spatially allocated small area estimates for 1880 Census demography”. _Demographic Research_, 29(22):579–616. doi: 10.4054/DemRes.2013.29.22 [↑](#footnote-ref-1)
 2. Mays VM, Ponce NA, Washington DL, Cochran SD. 2003. “Classification of race and ethnicity: implications for public health.” _Annu Rev Public Health_. 24:83-110. doi: 10.1146/annurev.publhealth.24.100901.140927 [↑](#footnote-ref-2)
 3. Fay RE, Herriot RA. 1979. "Estimates of Income for Small Places: An Application of James-Stein Procedures to Census Data." _Journal of the American Statistical Association_. 74(366):269-277. doi: 10.1080/01621459.1979.10482505 [↑](#footnote-ref-3)

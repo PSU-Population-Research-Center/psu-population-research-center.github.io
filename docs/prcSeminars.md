@@ -1,132 +1,63 @@
----
-title: PRC Seminar Series Guide
-
----
-
-# PRC Seminar Series Guide
+# PRC Seminar Series
 
 ## Introduction
 
-The PRC Seminar Series is designed to foster collaboration, increase awareness of the center’s research portfolio, and strengthen both internal and external relationships. This guide outlines the objectives, requirements, themes, formats, and management structure for the seminar series.
+The PRC Seminar Series strengthens internal and external relationships by:
 
----
+- **Enhancing Interaction:** Promoting engagement among PRC members.
+- **Fostering Collaboration:** Improving relationships with external partners.
+- **Increasing Visibility:** Highlighting PRC’s research activities.
 
-## Objectives
+This guide summarizes objectives, requirements, themes, formats, and management. Review annually to stay current.
 
-- **Enhance Interaction:** Promote regular engagement among PRC members.
-- **Increase Awareness:** Showcase the breadth and depth of PRC’s research activities.
-- **Expand Collaboration:** Encourage external partnerships and public relationships.
-- **Guest Presentations:** Arrange at least one guest presentation annually. Guests must be external to PRC and may be from PSU, other U.S. institutions, or internal if funding allows.
+## Requirements for PRC Members
 
----
-
-## Requirements for PRC Research Staff
-
-- Each research staff member is required to present at least once per month.
-- Presentations should reflect the seminar themes and contribute to the center’s objectives.
-
----
+- Each PRC research staff member must present at least once per year.
+- The Seminar Manager invites and schedules at least one external speaker annually.
+- All PRC members are expected to attend and participate.
 
 ## Presentation Themes and Format
 
-### Themes (in order of priority)
-1. Population research
+Presentations should support seminar themes and center objectives:
+
+1. Population research: theory and methods
 2. Oregon-related social science research
-3. State-level policy-oriented research
-4. New policies affecting PRC’s domain of expertise
+3. New policies affecting PRC’s mandate
 
-### Format
-- Each seminar should be 60 minutes, including opening remarks and final discussion.
-- Presentations should be clear, engaging, and encourage audience participation.
+Seminars may be held jointly with other institutions.
 
----
+### Schedule
 
-## Seminar Manager Role and Tenure
+- Sessions are online by default; in-person attendance is possible.
+- Each session lasts 60 minutes, including remarks and discussion.
+- Presentations should engage the audience.
+- The seminar calendar is planned and shared between July 1st and August 31st for the series starting in September.
+- Regular sessions: September, October, November, February, March, May, June.
+- Non-regular sessions may be scheduled for other months as needed.
 
-- **Role:** The Seminar Manager is the main point of contact for the seminar series. Responsibilities include:
-  - Coordinating with internal staff to arrange the presentation calendar.
-  - Communicating with external presenters to schedule guest seminars.
-- **Tenure:** PRC team members will rotate as Seminar Manager.
-  - Tenure lasts one year, from July 1st to June 30th of the following year.
-  - Tenure may be renewed indefinitely if the current manager is willing and approved by the PRC Director.
-  - The PRC Director will designate the next Seminar Manager at least three months before the current manager’s term ends.
+**Note:**  
+- April: excluded for PAA conference.
+- July, August: summer break.
+- December, January: end-of-year breaks.
 
----
+## Seminar Manager Role
+
+The Seminar Manager coordinates the seminar series by:
+
+- Arranging the presentation calendar.
+- Scheduling guest seminars with external presenters.
+- Maintaining a public relations profile on the PRC website or a major social network.
+
+## Seminar Manager Tenure
+
+- Tenure lasts one year, July 1st to June 30th.
+- Tenure may be renewed if approved by the PRC Director.
+- The PRC Director designates the next Seminar Manager at least three months before term ends.
 
 ## Additional Guidelines
 
-- The Seminar Manager should maintain a calendar of presentations and ensure timely communication with all presenters.
-- Feedback from attendees should be collected to improve future seminars.
-- The guide should be reviewed annually to incorporate best practices and address emerging needs.
-
----
+- The Seminar Manager maintains the presentation calendar and communicates with presenters.
+- Collect feedback from attendees to improve future seminars.
 
 **Contact:**  
-For questions or suggestions regarding the seminar series, please contact the current Seminar Manager or the PRC Director.
-
----
-
-*This guide is intended to ensure the PRC Seminar Series remains a valuable and dynamic forum for research exchange and professional development.*# PRC Seminar Series Guide
-
-## Introduction
-
-The PRC Seminar Series is designed to foster collaboration, increase awareness of the center’s research portfolio, and strengthen both internal and external relationships. This guide outlines the objectives, requirements, themes, formats, and management structure for the seminar series.
-
----
-
-## Objectives
-
-- **Enhance Interaction:** Promote regular engagement among PRC members.
-- **Increase Awareness:** Showcase the breadth and depth of PRC’s research activities.
-- **Expand Collaboration:** Encourage external partnerships and public relationships.
-- **Guest Presentations:** Arrange at least one guest presentation annually. Guests must be external to PRC and may be from PSU, other U.S. institutions, or internal if funding allows.
-
----
-
-## Requirements for PRC Research Staff
-
-- Each research staff member is required to present at least once per month.
-- Presentations should reflect the seminar themes and contribute to the center’s objectives.
-
----
-
-## Presentation Themes and Format
-
-### Themes (in order of priority)
-1. Population research
-2. Oregon-related social science research
-3. State-level policy-oriented research
-4. New policies affecting PRC’s domain of expertise
-
-### Format
-- Each seminar should be 60 minutes, including opening remarks and final discussion.
-- Presentations should be clear, engaging, and encourage audience participation.
-
----
-
-## Seminar Manager Role and Tenure
-
-- **Role:** The Seminar Manager is the main point of contact for the seminar series. Responsibilities include:
-  - Coordinating with internal staff to arrange the presentation calendar.
-  - Communicating with external presenters to schedule guest seminars.
-- **Tenure:** PRC team members will rotate as Seminar Manager.
-  - Tenure lasts one year, from July 1st to June 30th of the following year.
-  - Tenure may be renewed indefinitely if the current manager is willing and approved by the PRC Director.
-  - The PRC Director will designate the next Seminar Manager at least three months before the current manager’s term ends.
-
----
-
-## Additional Guidelines
-
-- The Seminar Manager should maintain a calendar of presentations and ensure timely communication with all presenters.
-- Feedback from attendees should be collected to improve future seminars.
-- The guide should be reviewed annually to incorporate best practices and address emerging needs.
-
----
-
-**Contact:**  
-For questions or suggestions regarding the seminar series, please contact the current Seminar Manager or the PRC Director.
-
----
-
-*This guide is intended to ensure the PRC Seminar Series remains a valuable and dynamic forum for research exchange and professional development.*
+For questions or suggestions, contact the current Seminar Manager or PRC Director.

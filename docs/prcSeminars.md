@@ -35,7 +35,8 @@ Seminars may be held jointly with other institutions.
 - Regular sessions: September, October, November, February, March, May, June.
 - Non-regular sessions may be scheduled for other months as needed.
 
-**Note:**  
+**Note:**
+
 - April: excluded for PAA conference.
 - July, August: summer break.
 - December, January: end-of-year breaks.

@@ -6,15 +6,15 @@ The PRC Seminar Series strengthens internal and external relationships by:
 
 - **Enhancing Interaction:** Promoting engagement among PRC members.
 - **Fostering Collaboration:** Improving relationships with external partners.
-- **Increasing Visibility:** Highlighting PRC’s research activities.
+- **Increasing Visibility:** Highlighting PRC’s research activities on public outlets.
 
-This guide summarizes objectives, requirements, themes, formats, and management. Review annually to stay current.
+This guide summarizes the objectives and basic management of the seminar series. It will be reviewed annually to ensure it remains current. Feedback from attendees will be collected to help improve future seminars.
 
 ## Requirements for PRC Members
 
 - Each PRC research staff member must present at least once per year.
 - The Seminar Manager invites and schedules at least one external speaker annually.
-- All PRC members are expected to attend and participate.
+- All PRC members are expected to attend and participate in the seminars.
 
 ## Presentation Themes and Format
 
@@ -31,7 +31,7 @@ Seminars may be held jointly with other institutions.
 - Sessions are online by default; in-person attendance is possible.
 - Each session lasts 60 minutes, including remarks and discussion.
 - Presentations should engage the audience.
-- The seminar calendar is planned and shared between July 1st and August 31st for the series starting in September.
+- The seminar calendar is planned and shared between July 1 and August 31 for the series starting in September.
 - Regular sessions: September, October, November, February, March, May, June.
 - Non-regular sessions may be scheduled for other months as needed.
 
@@ -43,22 +43,14 @@ Seminars may be held jointly with other institutions.
 
 ## Seminar Manager Role
 
-The Seminar Manager coordinates the seminar series by:
+The Seminar Manager is responsible for:
 
-- Arranging the presentation calendar.
-- Scheduling guest seminars with external presenters.
-- Maintaining a public relations profile on the PRC website or a major social network.
+- Establishing and maintaining the seminar presentation calendar, and communicating with presenters.
+- Engaging with external partners to arrange the annual guest presentation.
+- Maintaining a public profile for the seminar series on major social networks.
 
 ## Seminar Manager Tenure
 
-- Tenure lasts one year, July 1st to June 30th.
+- Tenure lasts one year, July 1 to June 30.
 - Tenure may be renewed if approved by the PRC Director.
-- The PRC Director designates the next Seminar Manager at least three months before term ends.
-
-## Additional Guidelines
-
-- The Seminar Manager maintains the presentation calendar and communicates with presenters.
-- Collect feedback from attendees to improve future seminars.
-
-**Contact:**  
-For questions or suggestions, contact the current Seminar Manager or PRC Director.
+- The PRC Director designates the next Seminar Manager at least three months before the term ends.
